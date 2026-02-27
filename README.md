@@ -3,7 +3,7 @@
 Task List is a minimally designed full-stack task management software application developed using the MERN stack technologies.
 This application will provide users with a simple and easy-to-use interface to add, edit, and manage tasks.
 
-## ✨ Functionality
+## Functionality
 
  Ability to add new tasks
  Able to mark tasks complete
