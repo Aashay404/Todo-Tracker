@@ -13,7 +13,7 @@ This application will provide users with a simple and easy-to-use interface to a
  RESTful API based architecture
  Use of Tailwind CSS to develop a responsive user interface
 
-## 🛠 Software Tools
+## Software Tools
 
 ### Front-End Development Tools:
  React (Vite)
