@@ -16,8 +16,8 @@ This application will provide users with a simple and easy-to-use interface to a
 ## Software Tools
 
 ### Front-End Development Tools:
- React (Vite)
- Tailwind CSS (CSS Framework)
+ React (Vite) and
+ Tailwind CSS (CSS Framework) and
  Axios (HTTP Client)
 
 ### Back-End Development Tools:
