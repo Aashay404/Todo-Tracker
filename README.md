@@ -21,7 +21,7 @@ This application will provide users with a simple and easy-to-use interface to a
  Axios (HTTP Client)
 
 ### Back-End Development Tools:
- NodeJS (JavaScript Runtime Environment)
- ExpressJS (NodeJS Framework)
- MongoDB (NoSQL Database Management System)
+ NodeJS (JavaScript Runtime Environment) and
+ ExpressJS (NodeJS Framework)and
+ MongoDB (NoSQL Database Management System)and
  Mongoose (Object Document Mapper for MongoDB)
