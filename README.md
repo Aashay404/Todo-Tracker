@@ -16,12 +16,12 @@ This application will provide users with a simple and easy-to-use interface to a
 ## Software Tools
 
 ### Front-End Development Tools:
- React (Vite) and
- Tailwind CSS (CSS Framework) and
+ React (Vite)
+ Tailwind CSS (CSS Framework)
  Axios (HTTP Client)
 
 ### Back-End Development Tools:
- NodeJS (JavaScript Runtime Environment) and
- ExpressJS (NodeJS Framework)and
+ NodeJS (JavaScript Runtime Environment)
+ ExpressJS (NodeJS Framework)
  MongoDB (NoSQL Database Management System)and
  Mongoose (Object Document Mapper for MongoDB)
