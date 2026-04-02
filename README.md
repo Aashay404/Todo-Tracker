@@ -10,7 +10,7 @@ This application will provide users with a simple and easy-to-use interface to a
  Able to delete tasks
  Able to filter tasks by status (All/Active/Complete)
  Data persistence using MongoDB
- RESTful API based architecture
+ RESTful API based architecture and
  Use of Tailwind CSS to develop a responsive user interface
 
 ## Software Tools
